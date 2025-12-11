@@ -11,8 +11,6 @@ class HomeScreen extends StatelessWidget {
     Product(id: 1, name: "Apple", imageUrl: "assets/apple.jpg", price: 1.0),
     Product(id: 2, name: "Banana", imageUrl: "assets/Banana.jpg", price: 0.5),
     Product(id: 3, name: "Orange", imageUrl: "assets/Orange.jpg", price: 0.8),
-
-
   ];
 
   @override
